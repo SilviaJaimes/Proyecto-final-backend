@@ -603,7 +603,7 @@ Authorization: Bearer <token>
 
 1. **Clonar el repositorio**
 ```bash
-cd backend
+git clone https://github.com/SilviaJaimes/Proyecto-final-backend.git
 ```
 
 2. **Instalar dependencias**
@@ -691,9 +691,9 @@ npm run dev
 
 ### Frontend
 
-1. **Navegar a la carpeta**
+1. **Clonar el repositorio**
 ```bash
-cd frontend
+git clone https://github.com/SilviaJaimes/Proyecto-final-frontend.git
 ```
 
 2. **Instalar dependencias**
